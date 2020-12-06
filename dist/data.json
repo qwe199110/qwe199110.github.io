@@ -1,0 +1,42 @@
+[
+  {
+    "number": "FG1",
+    "name": "王小虎",
+    "leaveType": ["外出","旷工","病假","事假","外出","旷工","病假","事假"],
+    "startTime": "2019-11-22 09:40",
+    "endTime": "2019-11-22 09:40",
+    "destination": "河北省石家庄市桥西区",
+    "typeApproval": "请假",
+    "approvalStatus": "待审批"
+  },
+  {
+    "number": "FG2",
+    "name": "王小虎",
+    "leaveType": ["外出","旷工","病假","事假","外出","旷工","病假","事假"],
+    "startTime": "2019-11-22 09:40",
+    "endTime": "2019-11-22 09:40",
+    "destination": "河北省石家庄市桥西区",
+    "typeApproval": "请假",
+    "approvalStatus": "待审批"
+  },
+  {
+    "number": "FG3",
+    "name": "王小虎",
+    "leaveType": ["外出","旷工","病假","事假","外出","旷工","病假","事假"],
+    "startTime": "2019-11-22 09:40",
+    "endTime": "2019-11-22 09:40",
+    "destination": "河北省石家庄市桥西区",
+    "typeApproval": "请假",
+    "approvalStatus": "待审批"
+  },
+  {
+    "number": "FG4",
+    "name": "王小虎",
+    "leaveType": ["外出","旷工","病假","事假","外出","旷工","病假","事假"],
+    "startTime": "2019-11-22 09:40",
+    "endTime": "2019-11-22 09:40",
+    "destination": "河北省石家庄市桥西区",
+    "typeApproval": "请假",
+    "approvalStatus": "待审批"
+  }
+]
